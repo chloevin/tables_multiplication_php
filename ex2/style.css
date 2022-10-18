@@ -1,0 +1,17 @@
+body {
+
+    background-image: linear-gradient(to top, #ebbba7 0%, #cfc7f8 100%);
+    background-repeat:no-repeat 100%;
+    background-attachment:fixed;
+    }
+
+    .titre {
+        margin-top: 30px;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    
+    .soustitre {
+        margin-bottom: 30px;
+        text-align: center;
+    }
